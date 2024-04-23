@@ -1,0 +1,4 @@
+pyyaml==6.0
+termcolor==1.1.0
+pytezos==3.7.4
+pre-commit==3.6.2
