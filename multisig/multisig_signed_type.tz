@@ -1,0 +1,1 @@
+(pair (pair chain_id address) (pair :payload (nat %counter) (or :action (lambda %operation unit (list operation)) (pair %change_keys (nat %threshold) (list %keys key)))))
